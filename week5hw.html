@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+  <head>
+
+    <meta charset="utf-8">
+
+    <title>Seasons</title>
+
+    <style>
+
+    	body {
+    		background-color: orange;
+    	}
+
+    </style>
+
+    <script>
+
+
+    	function changeSeason (num) {
+
+        text = ["If spring is your favorite season, then you might crave new experiences, and the spring season offers the chance of renewal that you need after a long, cold winter.", "The warm months of summer are a time to travel and enjoy the outdoors. You probably tend to be on the outgoing, extroverted side, and people likely describe you as upbeat, personable, and assertive.", "While parts of the world tend to think of spring as the season of renewal, fall is also a very good time for a fresh start. The vibrant orange colors and cooler weather of autumn appeal to your constant desire for change. The upcoming holidays inspire many to reflect back on the year that was and make plans for the year to come.", "If you count the chilly months of winter as your favorite season of all, it might mean that you tend to be a bit of an introverted homebody. Donning a warm sweater and curling up on the couch with a hot beverage to escape the cold might sound like your idea of an ideal afternoon."]
+
+        switch(num) {
+        case 0:
+          alert(text[0]);
+          break;
+        case 1:
+          alert(text[1]);
+          break;
+        case 2:
+          alert(text[2]);
+          break;
+        case 3:
+          alert(text[3]);
+          break;
+        }
+
+    	}
+
+
+    </script>
+
+  </head>
+
+  <body>
+
+  	<h1>What your favorite season says about you.</h1>
+
+	<button onclick="changeSeason(0)">Spring</button>
+  <button onclick="changeSeason(1)">Summer</button>
+  <button onclick="changeSeason(2)">Fall</button>
+  <button onclick="changeSeason(3)">Winter</button>
+
+
+	<p id="moodText"></p>
+
+
+
+  </body>
+
+ </html>
