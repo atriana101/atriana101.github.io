@@ -1,0 +1,98 @@
+{
+     "Data": [{
+               "Borough": "queens",
+               "Fridges": [{
+                         "Name": "bridge fridge",
+                         "Address": "dumbo",
+                         "Info": "cashapp"
+                    },
+                    {
+                         "Name": "Rumah Sakit D",
+                         "Address": "Jalan Jend Sudirman 2",
+                         "info": "Sabtu, 08.00 - 12.00"
+                    },
+                    {
+                         "Name": "Rumah Sakit E",
+                         "Address": "Jalan Jend Sudirman 3",
+                         "Info": "Rabu, 13.00 - 22.00"
+                    }
+               ]
+          },
+          {
+               "Borough": "brooklyn",
+               "Fridges": [{
+                         "Name": "bridge fridge",
+                         "Address": "dumbo",
+                         "Info": "cashapp"
+                    },
+                    {
+                         "Name": "Rumah Sakit D",
+                         "Address": "Jalan Jend Sudirman 2",
+                         "info": "Sabtu, 08.00 - 12.00"
+                    },
+                    {
+                         "Name": "Rumah Sakit E",
+                         "Address": "Jalan Jend Sudirman 3",
+                         "Schedule": "Rabu, 13.00 - 22.00"
+                    }
+               ]
+          },
+          {
+               "Borough": "Manhattan",
+               "Fridges": [{
+                         "Name": "bridge fridge",
+                         "Address": "dumbo",
+                         "Info": "cashapp"
+                    },
+                    {
+                         "Name": "Rumah Sakit D",
+                         "Address": "Jalan Jend Sudirman 2",
+                         "Info": "Sabtu, 08.00 - 12.00"
+                    },
+                    {
+                         "Name": "Rumah Sakit E",
+                         "Address": "Jalan Jend Sudirman 3",
+                         "Info": "Rabu, 13.00 - 22.00"
+                    }
+               ]
+          },
+          {
+               "Borough": "bronx",
+               "Fridges": [{
+                         "Name": "bridge fridge",
+                         "Address": "dumbo",
+                         "Info": "cashapp"
+                    },
+                    {
+                         "Name": "Rumah Sakit D",
+                         "Address": "Jalan Jend Sudirman 2",
+                         "info": "Sabtu, 08.00 - 12.00"
+                    },
+                    {
+                         "Name": "Rumah Sakit E",
+                         "Address": "Jalan Jend Sudirman 3",
+                         "Schedule": "Rabu, 13.00 - 22.00"
+                    }
+               ]
+          },
+          {
+               "Borough": "Staten Island",
+               "Fridges": [{
+                         "Name": "bfridge",
+                         "Address": "dumbo",
+                         "Info": "cashapp"
+                    },
+                    {
+                         "Name": "Rumah Sakit D",
+                         "Address": "Jalan Jend Sudirman 2",
+                         "info": "Sabtu, 08.00 - 12.00"
+                    },
+                    {
+                         "Name": "Rumah Sakit E",
+                         "Address": "Jalan Jend Sudirman 3",
+                         "Schedule": "Rabu, 13.00 - 22.00"
+                    }
+               ]
+          }
+     ]
+}
