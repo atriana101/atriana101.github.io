@@ -1,0 +1,117 @@
+{
+     "Data": [{
+               "Borough": "Queens",
+               "Fridges": [{
+                         "Name": "Flushing Community Fridge",
+                         "Address": "136-23 Sanford Avenue, Flushing, NY 11355",
+                         "Info": "IG: flushingcommunityfridge"
+                    },
+                    {
+                         "Name": "Jamaica Community Fridge",
+                         "Address": "107-58 Sutphin Blvd",
+                         "info": "PayPal: DNewton39"
+                    },
+                    {
+                         "Name": "JH Community Fridge",
+                         "Address": "80th st & Northern blvd, Queens",
+                         "Info": ""
+                    },
+                    {
+                         "Name": "Queens Village Community Fridge",
+                         "Address": "190-05 Hollis Ave",
+                         "info": "Venmo at Donate-QVCF"
+                    },
+                    {
+                         "Name": "JH Community Fridge",
+                         "Address": "80th st & Northern blvd, Queens",
+                         "Info": ""
+                    }
+               ]
+          },
+          {
+               "Borough": "Brooklyn",
+               "Fridges": [{
+                         "Name": "Brooklyn Community Fridge",
+                         "Address": "198A Rogers Ave, Crown Heights",
+                         "Info": "IG: bkfridges"
+                    },
+                    {
+                         "Name": "BK Community Fridge",
+                         "Address": "635 Rogers Ave, Flatbush",
+                         "info": "IG: bkfridges"
+                    },
+                    {
+                         "Name": "dtbkfridge",
+                         "Address": "136 Lawerence Street",
+                         "Info": "Venmo: DBBHMA"
+                    },
+                    {
+                         "Name": "The Living Gallery",
+                         "Address": "1094 Broadway , Brooklyn, NY",
+                         "Info": "Open 24/7"
+                    }
+               ]
+          },
+          {
+               "Borough": "Manhattan",
+               "Fridges": [{
+                         "Name": "Broome & Bowery Fridge",
+                         "Address": "329 Broome St New York, NY 10002",
+                         "Info": ""
+                    },
+                    {
+                         "Name": "The Chelsea Fridge",
+                         "Address": "55 West 15th st New York, NY 10011",
+                         "Info": ""
+                    },
+                    {
+                         "Name": "Overthrow Community Fridge",
+                         "Address": "9 Bleeker st New York, NY 10012",
+                         "Info": "Plant-based Only"
+                    },
+                    {
+                         "Name": "The Uptown Fridge",
+                         "Address": "4672 Broadway New York, 10040",
+                         "Info": "Venmo: @aditivarshneya"
+                    }
+               ]
+          },
+          {
+               "Borough": "Bronx",
+               "Fridges": [{
+                         "Name": "The Friendly Fridge",
+                         "Address": "5983 Broadway New York, 10463",
+                         "Info": ""
+                    },
+                    {
+                         "Name": "Mott Haven Fridge",
+                         "Address": " 141st Street & St Ann Avenue",
+                         "info": "IG: MottHavenFridge "
+                    },
+                    {
+                         "Name": "SYB Community Fridge",
+                         "Address": "237 McClellan St",
+                         "Info": "FB: 1Freedom4All"
+                    },
+                    {
+                         "Name": "Isla Fridge",
+                         "Address": "914 Prospect Ave, Bronx",
+                         "Info": "IG: Islafridge"
+                    },
+                    {
+                         "Name": "Kingsfridge",
+                         "Address": "3016 Bailey ave",
+                         "Info": "IG: Kingsfridge"
+                    }
+               ]
+          },
+          {
+               "Borough": "Staten Island",
+               "Fridges": [{
+                    "Name": "Forest Ave Comeunity Fridge",
+                    "Address": "Corner of Forest Ave and Amity Pl",
+                    "Info": "Open 24/7"
+               }]
+          }
+     ]
+}
