@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+    background-color: #409EB3;
+}
+.container{
+    padding: 1rem;
+}
+.heading{
+    font-size: 3rem;
+}
+.banner{
+    max-width: 100%;
+    width: 450px;
+}
+/* */
+.row{
+    display: flex;
+    margin-top: 1.5rem;
+    align-items: flex-start;
+}
+.row .buttons{
+    background-color: #129804;
+    text-align: center;
+    padding: 2rem;
+    border: 1px solid #222;
+    width: 270px;
+}
+.btn{
+    border: 1px solid #222;
+    margin-bottom: 2rem;
+    font-size: 1.25rem;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 0.5rem 1rem;
+    display: inline-block;
+}
+.btn:last-child{
+    margin-bottom: 0;
+}
+#result{
+    padding: 0 1rem;
+    width: calc(100% - 270px);
+}
+.mb-15{
+    margin-bottom: 15px;
+}
+/* tables */
+.tables-content {
+    margin: 0 0 2rem 0;
+}
+.tables-name {
+    font-weight: bold;
+}
+.table {
+    margin: 1rem 0 1rem 0;
+    width: 100%;
+    background: #f1f1f1;
+    border-collapse: collapse;
+    display: table;
+}
+.table thead tr th {
+    border-bottom: 1px solid #666;
+    border-top: 1px solid #666;
+    padding: 0.5rem 1rem 0.5rem 0.5rem;
+    background: #e4e4e4;
+}
+.table th {
+    text-align: left;
+    padding: 0.5rem 1rem 0.5rem 0.5rem;
+    border-collapse: collapse;
+}
+.table th[scope=row] {
+    font-weight: bold;
+}
+.table th[scope=col] {
+    text-align: left;
+    color: #333;
+    padding: 0.5rem 1rem 0.5rem 0.5rem;
+}
+.table tbody tr:nth-child(even) {
+    background: #f3f3f3;
+}
+.table tbody tr:nth-child(odd) {
+    background: #FFF;
+}
