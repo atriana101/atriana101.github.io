@@ -57,7 +57,7 @@ $(document).ready(function () {
                             html += '<table class="table">'
                                 + '<thead>'
                                 + '<tr>'
-                                + '<th scope="col">Nama</th>'
+                                + '<th scope="col">Name</th>'
                                 + '<th scope="col">Address</th>'
                                 + '<th scope="col">Info</th>'
                                 + '</tr>'
